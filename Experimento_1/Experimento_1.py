@@ -12,7 +12,7 @@ Created on Sat Sep 10 13:01:07 2022
 # a vários clusters que se apresentam no formato de uma banana, veja a Figura 1). A base possui 5300 observações, 2 atributos, e 2 classes, e ela pode ser acessada em https://sci2s.ugr.es/keel/dataset.php?cod=182
 
 # ------------------------------------------------------------------------------
-#  Importar o conjunto de dados Iris em um dataframe do pandas
+#  Importar o conjunto de dados em um dataframe do pandas
 # ------------------------------------------------------------------------------
 
 from sklearn.tree import DecisionTreeClassifier
